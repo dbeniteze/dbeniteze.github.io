@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'diego-benítez',
+    linkedin: 'diego-benitez-elias',
     twitter: '',
     mastodon: '',
     researchGate: '',
@@ -77,23 +77,20 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    'Tensorflow',
+    'Keras',
+    'Python',
+    'Jupyter',
+    'Kaggle',
+    'Linux',
+    'RL',
+    'ML',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'yfinance',
+    'Haskell',
   ],
   experiences: [
     {
