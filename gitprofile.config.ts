@@ -79,6 +79,20 @@ const CONFIG = {
     fileUrl:
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
+  educations: [
+    {
+      institution: 'Universidad Rey Juan Carlos',
+      degree: 'Grado en Ingeniería en Sistemas de Telecomunicación ',
+      from: '',
+      to: '',
+    },
+    {
+      institution: '',
+      degree: '',
+      from: '',
+      to: '',
+    },
+  ],
   skills: [
     'Tensorflow',
     'Keras',
@@ -116,20 +130,7 @@ const CONFIG = {
       link: '',
     },
   ],
-  educations: [
-    {
-      institution: 'Universidad Rey Juan Carlos',
-      degree: 'Grado en Ingeniería en Sistemas de Telecomunicación ',
-      from: '',
-      to: '',
-    },
-    {
-      institution: '',
-      degree: '',
-      from: '',
-      to: '',
-    },
-  ],
+  
   publications: [
     {
       title: '',
