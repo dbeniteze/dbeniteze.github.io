@@ -118,8 +118,8 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: '',
-      degree: '',
+      institution: 'Universidad Rey Juan Carlos',
+      degree: 'Grado en Ingeniería en Sistemas de Telecomunicación ',
       from: '',
       to: '',
     },
