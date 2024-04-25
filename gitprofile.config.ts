@@ -57,9 +57,17 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'dbenitez',
-       behance: '',
-       dev: 'dbeniteze',
+    linkedin: 'diego-benítez',
+    twitter: '',
+    mastodon: '',
+    researchGate: '',
+    facebook: '',
+    instagram: '',
+    youtube: '', // example: 'pewdiepie'
+    dribbble: '',
+    behance: '',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
@@ -148,7 +156,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
