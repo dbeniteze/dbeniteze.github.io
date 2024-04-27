@@ -97,14 +97,14 @@ const CONFIG = {
   skills: [
     'Tensorflow',
     'Keras',
+    'Pandas',
     'Python',
     'Jupyter',
     'Kaggle',
     'Linux',
     'RL',
     'ML',
-    'Git',
-    'yfinance',
+    'Git',,
     'Haskell',
   ],
   experiences: [
