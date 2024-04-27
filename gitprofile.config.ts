@@ -104,7 +104,6 @@ const CONFIG = {
     'Linux',
     'RL',
     'ML',
-    'Git',,
     'Haskell',
   ],
   experiences: [
