@@ -58,7 +58,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'diego-benitez-elias',
+    linkedin: 'dbenitezelias',
     twitter: '',
     mastodon: '',
     researchGate: '',
