@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['dbeniteze/TFG_autoencoder_surface_temp',
+        projects: ['dbeniteze/TFG_autoencoder_surface_temp', 'dbeniteze/  plant_disease_classification_effnetv2',
          'dbeniteze/pct_predict_CNN-LSTM_SP500', 'dbeniteze/portfolio_optimization_RL_agent_openai_gym', 'dbeniteze/RL_openAI_gym_ATARI_game', 'dbeniteze/custom_effnetv2_cifar100_classification','dbeniteze/haskell_helsinki_exercises'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
